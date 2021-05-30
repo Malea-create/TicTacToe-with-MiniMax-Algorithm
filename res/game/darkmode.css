@@ -1,0 +1,17 @@
+.root {
+    -fx-background-color: #181818;
+}
+
+.title {
+    -fx-text-fill: white;
+}
+
+.text {
+    -fx-text-fill: darkgray;
+}
+
+.tile {
+    -fx-background-color: #212121;
+    -fx-border-color: white;
+    -fx-text-fill: white;
+}
